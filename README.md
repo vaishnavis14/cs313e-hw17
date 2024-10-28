@@ -1,0 +1,1 @@
+This script implements an expression tree to evaluate mathematical expressions and convert them into different notations, specifically prefix (pre-order) and postfix (post-order) formats. The program reads an infix expression from standard input, constructs the corresponding expression tree, calculates its value, and outputs the results in all specified formats.
